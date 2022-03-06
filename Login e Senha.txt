@@ -1,0 +1,6 @@
+LOGIN E SENHA PARA ACESSAR A TELA DE LOGIN E PROSSEGUIR NO PROJETO WEB
+
+Email :admin@gmail.com
+Senha   :1234
+
+*Observação : para melhor visualização do projeto web (HTML e CSS) utilizar o link do localhost no browser (Google Chrome)
